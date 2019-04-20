@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVP-Assignment</string>
+    <string name="clicksText">You have clicked the button this many times:</string>
+</resources>
